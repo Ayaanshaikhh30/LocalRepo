@@ -7,7 +7,7 @@
 
 # S T A R K
 <p> its a Local repo !!<p>
-=======
+
 # S.T.A.R.K
 > "It's a Local Repo!!"
->>>>>>> c93886b (Updated README content)
+
