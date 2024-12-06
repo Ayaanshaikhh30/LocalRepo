@@ -1,3 +1,11 @@
-p{
-    color: red;
+h1 {
+    
+    color: blue;
+    font: 599;
+    font-family: cursive;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: -9px;
 }
+
